@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tofiq Valizada
+# Tofiq Vəlizadaə
 
 **Systems Software Engineer & Linux Desktop Subsystems Specialist**
 
